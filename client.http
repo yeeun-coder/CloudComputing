@@ -1,0 +1,17 @@
+GET http://127.0.0.1:8000/todos
+
+### main2.py
+POST http://127.0.0.1:8000/todos
+
+PUT http://127.0.0.1:8000/todos
+
+DELETE http://127.0.0.1:8000/todos
+
+### main3.py
+POST http://127.0.0.1:8000/todos
+Content-Type: application/json
+
+{
+  "title": "우유 사기",
+  "completed": false
+}
