@@ -88,7 +88,7 @@ fastapi_env는 "C:\Users\jongy\miniconda3\envs\fastapi_env"에, fastapi_venv는 
    - VS Code에서 커널로 선택해서 주피터 노트북을 실행
    - .py 파일의 실행에 사용하는 파이썬 인터프리터 역할
 
-
+<img width="859" height="59" alt="Image" src="https://github.com/user-attachments/assets/bbe9c2e3-e723-4c69-83d3-db0d500b8fd5" />
 VS Code에서 인터프리터 선택은 화면 우측 하단의, 위 그림의 빨간색 표시 부분 클릭해서 선택
 
 
