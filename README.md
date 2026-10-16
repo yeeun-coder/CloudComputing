@@ -14,7 +14,7 @@
    *  --name fastapi_env: 내부적으로 식별할 커널의 이름
    *   --display-name "FastAPI kernel": 사용자에게 보여지는 이름  
      
-// python이 실행되는 현재 가상환경을 이름 "fastapi_env"로 등록, 화면 표시는 "--display-name"로 지정
+// python이 실행되는 현재 가상환경을 이름 "fastapi_env"로 등록, 화면 표시는 "--display-name"로 지정  
 // conda와 Jupyter의 이름 체계는 별개임  
 
 6. python -m pip install fastapi uvicorn
